@@ -1,16 +1,32 @@
-## Hi there 👋
+# Dhaval Sukharamwala
 
-<!--
-**dhaval-sukharamwala/dhaval-sukharamwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Designer — UI/UX & design systems
 
-Here are some ideas to get you started:
+I design clarity into complex products — from operational SaaS for logistics to
+consumer e-commerce. I work end to end: research, flows and information
+architecture through to high-fidelity UI and design systems — and I document the
+thinking as interactive case studies you can browse right here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Figma` · `Design systems` · `Prototyping` · `Web (HTML/CSS)` · Based in Surat, India
+
+---
+
+## Featured work
+
+Each case study is a fully interactive page — scroll the story, click any screen to zoom in.
+
+| Case study | What it is | |
+| :--- | :--- | :--- |
+| **Dobblin — Storefront** | Homepage for a summer-fashion D2C brand | [Live demo](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
+| **REROUTE — Bookings** | A two-sided marketplace matching empty-container supply with demand | [Live demo](#) |
+| **MATCHLOG — Invoicing** | GST-compliant invoicing for container logistics | [Live demo](#) |
+
+<!-- Add or remove rows as you publish more. Replace # with the real GitHub Pages and Behance links. -->
+
+---
+
+## Elsewhere
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)]([https://www.behance.net/your-handle](https://www.behance.net/dhaval-sukharamwala))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-handle](https://www.linkedin.com/in/dhaval-sukharamwala))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhavaldvl00@gmail.com)
