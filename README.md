@@ -2,10 +2,7 @@
 
 ### Product Designer | Senior UI/UX Designer | Enterprise SaaS & Design Systems
 
-I design clarity into complex products — from operational SaaS for logistics to
-consumer e-commerce. I work end to end: research, flows and information
-architecture through to high-fidelity UI and design systems — and I document the
-thinking as interactive case studies you can browse right here.
+I’m a Product Designer with 10+ years of experience who actually enjoys the challenge of messy, data-heavy B2B enterprise workflows. My sweet spot is taking chaotic logistics and supply-chain platforms and turning them into clean, high-efficiency digital products that people actually want to use every day. Because I started my career in front-end and native Android engineering, I speak the same language as developers, which helps me bridge the gap between a great Figma prototype and production-ready code.
 
 `Figma` · `Design systems` · `Prototyping` · `Web (HTML/CSS)` · Based in Surat, India
 
