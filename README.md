@@ -19,6 +19,8 @@ Each case study is a fully interactive page — scroll the story, click any scre
 | :--- | :--- | :--- |
 | **Dobblin — Storefront** | Homepage for a summer-fashion D2C brand | [Live demo](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
 | **Empty Reuse — Mobile App** | Street-turn logistics, in your pocket | [Live demo](https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/) |
+| **Invoice - Automation** | Designing a scalable invoicing experience for enterprise users | [Live demo](https://dhaval-sukharamwala.github.io/CargoLedger/) |
+| **DO - Automation** | Upload the DO copies - The form fills itself | [Live demo](https://dhaval-sukharamwala.github.io/DO-Automation/) |
 
 <!-- Add or remove rows as you publish more. Replace # with the real GitHub Pages and Behance links. -->
 
