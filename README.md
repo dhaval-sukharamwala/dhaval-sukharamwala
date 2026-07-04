@@ -18,6 +18,7 @@ Each case study is a fully interactive page — scroll the story, click any scre
 | **Empty Reuse — Mobile App** | Putting idle containers back to work | [Live demo](https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/) |
 | **Invoice - Automation** | Designing a scalable invoicing experience for enterprise users | [Live demo](https://dhaval-sukharamwala.github.io/CargoLedger/) |
 | **DO - Automation** | Upload the DO copies - The form fills itself | [Live demo](https://dhaval-sukharamwala.github.io/DO-Automation/) |
+| **Agrisense** | A control room for the farm | [Live demo](https://dhaval-sukharamwala.github.io/agrisense-case-study/) |
 
 <!-- Add or remove rows as you publish more. Replace # with the real GitHub Pages and Behance links. -->
 
