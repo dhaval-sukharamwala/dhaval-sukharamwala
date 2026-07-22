@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Dhaval Sukharamwala
-
-## Senior Product Designer • Enterprise SaaS • Design Systems • Workflow Automation
+# 👋 Hi, I'm Dhaval Sukharamwala  
+### Senior Product Designer • Enterprise SaaS • Design Systems • Workflow Automation
 
 I design enterprise software that transforms complex workflows into intuitive, efficient experiences.
 
@@ -8,9 +7,9 @@ Over the past **10+ years**, I've partnered with product managers, engineers, an
 
 My background in **Front-end Development** and **Android Development** enables me to bridge the gap between design and engineering, creating solutions that are not only user-centered but also technically feasible and scalable.
 
-📍 Surat, India
+📍 Surat, Gujarat, India  
+💼 Open to Remote • Pune • Ahmedabad • Vadodara • Gandhinagar
 
-💼 Open to Remote • Pune • Bengaluru • Ahmedabad • Vadodara
 ---
 
 ## Featured Work
