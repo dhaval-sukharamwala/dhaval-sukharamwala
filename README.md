@@ -6,7 +6,7 @@ I design enterprise software that transforms complex workflows into intuitive, e
 
 Over the past **10+ years**, I've partnered with product managers, engineers, and business stakeholders to design SaaS products that improve operational efficiency, reduce manual work, and help teams collaborate better. My expertise spans **logistics automation**, **invoicing systems**, **mobile applications**, and **AI-powered platforms**.
 
-My background in **Front-end Development** and **Android Development** enables me to bridge the gap between design and engineering, creating solutions that are not only user-centered but also technically feasible and scalable.
+My background in **Front-end Development** enables me to bridge the gap between design and engineering, creating solutions that are not only user-centered but also technically feasible and scalable.
 
 ---
 
