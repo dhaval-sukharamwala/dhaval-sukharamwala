@@ -8,17 +8,19 @@ I’m a Product Designer with 10+ years of experience who actually enjoys the ch
 
 ---
 
-## Featured work
+## Featured Work
 
 Each case study is a fully interactive page — scroll the story, click any screen to zoom in.
 
-| Case study | What it is | |
+| Project | What it is | Link |
 | :--- | :--- | :--- |
-| **Dobblin — Storefront** | Homepage for a summer-fashion D2C brand | [Live demo](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
-| **Empty Reuse — Mobile App** | Putting idle containers back to work | [Live demo](https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/) |
-| **Invoice - Automation** | Designing a scalable invoicing experience for enterprise users | [Live demo](https://dhaval-sukharamwala.github.io/CargoLedger/) |
-| **DO - Automation** | Upload the DO copies - The form fills itself | [Live demo](https://dhaval-sukharamwala.github.io/DO-Automation/) |
-| **AgriOS** | A farm app that leads with a decision, not a dashboard | [Live demo](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
+| **MatchLog Platform** | Enterprise container logistics & reuse platform used by shipping lines, transporters, and logistics teams | https://matchlog.delivery |
+| **Shiplyst** | Digital freight procurement & shipment management platform for global logistics | https://www.shiplyst.com |
+| **CargoLedger – Invoice Automation** | Designing a scalable invoicing experience for enterprise users | https://dhaval-sukharamwala.github.io/CargoLedger/ |
+| **DO Automation** | Upload the DO copies — the form fills itself | https://dhaval-sukharamwala.github.io/DO-Automation/ |
+| **Empty Reuse – Mobile App** | Putting idle containers back to work | https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/ |
+| **AgriOS** | AI-powered farm management platform focused on decision-making | https://dhaval-sukharamwala.github.io/agrios-copilot/ |
+| **Dobblin Storefront** | E-commerce storefront for a fashion D2C brand | https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/ |
 
 <!-- Add or remove rows as you publish more. Replace # with the real GitHub Pages and Behance links. -->
 
