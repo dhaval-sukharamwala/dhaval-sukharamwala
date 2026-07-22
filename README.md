@@ -1,10 +1,12 @@
 # Dhaval Sukharamwala
 
-### Product Designer | Senior UI/UX Designer | Enterprise SaaS & Design Systems
+### Senior Product Designer | Enterprise SaaS | Design Systems | Workflow Automation
 
-I’m a Product Designer with 10+ years of experience who actually enjoys the challenge of messy, data-heavy B2B enterprise workflows. My sweet spot is taking chaotic logistics and supply-chain platforms and turning them into clean, high-efficiency digital products that people actually want to use every day. Because I started my career in front-end and native Android engineering, I speak the same language as developers, which helps me bridge the gap between a great Figma prototype and production-ready code.
+I’m a Senior Product Designer with 10+ years of experience designing enterprise SaaS products that simplify complex workflows and improve operational efficiency. I specialize in transforming data-heavy B2B platforms into intuitive experiences that help users complete critical tasks faster, with fewer errors and greater confidence.
 
-`Figma` · `Design systems` · `Prototyping` · `Web (HTML/CSS)` · Based in Surat, India
+My work spans logistics, supply chain, invoicing, automation, and AI-assisted workflows, including products such as MatchLog, Shiplyst, CargoLedger, and AgriOS. With a background in Front-end and Android development, I collaborate closely with engineers to ensure designs are technically feasible and translate seamlessly from Figma to production.
+
+`Enterprise SaaS` · `Workflow Design` · `Figma` · `Design Systems` · `AI Prototyping` · `Usability Testing` · `HTML/CSS` · Based in Surat, India
 
 ---
 
