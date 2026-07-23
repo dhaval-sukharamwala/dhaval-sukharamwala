@@ -71,7 +71,7 @@ Each case study is a fully interactive page — scroll the story, click any scre
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.behance.net/dhaval-sukharamwala">
     <img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
@@ -80,9 +80,6 @@ Each case study is a fully interactive page — scroll the story, click any scre
   </a>
   <a href="mailto:dhavaldvl00@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -117,7 +114,5 @@ I'm passionate about creating products that make a real impact on people's workf
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=dhaval-sukharamwala&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhaval-sukharamwala&show_icons=true)
 
 *Last updated: July 2026*
