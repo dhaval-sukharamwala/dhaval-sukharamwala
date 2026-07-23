@@ -118,6 +118,6 @@ I'm passionate about creating products that make a real impact on people's workf
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=dhaval-sukharamwala&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaval-sukharamwala&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhaval-sukharamwala&show_icons=true)
 
 *Last updated: July 2026*
