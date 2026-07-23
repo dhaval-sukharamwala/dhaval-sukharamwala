@@ -116,5 +116,6 @@ I'm passionate about creating products that make a real impact on people's workf
 - 🚀 **Currently:** Open to new opportunities and collaborative projects
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=dhaval-sukharamwala&label=Profile%20views&color=0e75b6&style=flat)
 
 *Last updated: July 2026*
