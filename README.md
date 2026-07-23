@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Dhaval Sukharamwala  
 
-### Senior Product Designer • Enterprise SaaS • Design Systems • Workflow Automation
+### Senior Product Designer • Enterprise SaaS • AI-Powered Products • Design Systems
 
-I design enterprise software that transforms complex workflows into intuitive, efficient experiences.
+I design enterprise SaaS products that simplify complex business workflows through user-centered design, scalable design systems, and close collaboration with engineering.
 
-Over the past **10+ years**, I've partnered with product managers, engineers, and business stakeholders to design SaaS products that improve operational efficiency, reduce manual work, and help teams collaborate better. My expertise spans **logistics automation**, **invoicing systems**, **mobile applications**, and **AI-powered platforms**.
+Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and business stakeholders to transform complex operational workflows into intuitive digital experiences.
 
-My background in **Front-end Development** enables me to bridge the gap between design and engineering, creating solutions that are not only user-centered but also technically feasible and scalable.
+My **front-end development background** helps bridge the gap between design and engineering, enabling faster implementation, stronger design systems, and technically feasible solutions.
 
 ---
 
