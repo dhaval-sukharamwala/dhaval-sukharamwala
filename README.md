@@ -33,7 +33,7 @@ Each case study is a fully interactive page — scroll the story, click any scre
 | **DO Automation** | Upload DO copies — the form fills itself automatically using AI | [Case Study](https://dhaval-sukharamwala.github.io/DO-Automation/) |
 | **Empty Reuse – Mobile App** | Mobile-first design for putting idle containers back to work in the logistics supply chain | [Case Study](https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/) |
 | **AgriOS – AI Copilot** | AI-powered farm management platform focused on data-driven decision-making for farmers | [Case Study](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
-| **Dobblin Storefront** | E-commerce storefront design for a fashion D2C brand with focus on conversion | [Case Study →](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
+| **Dobblin Storefront** | E-commerce storefront design for a fashion D2C brand with focus on conversion | [Case Study](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
 
 ---
 
