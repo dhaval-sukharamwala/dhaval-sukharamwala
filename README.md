@@ -26,14 +26,14 @@ My background in **Front-end Development** enables me to bridge the gap between 
 Each case study is a fully interactive page — scroll the story, click any screen to zoom in.
 
 | Project | Description | Link |
-| :--- | :--- | :--- |
-| **MatchLog Platform** | Enterprise container logistics & reuse platform used by shipping lines, transporters, and logistics teams | [View](https://matchlog.delivery) |
-| **Shiplyst** | Digital freight procurement & shipment management platform for global logistics | [View](https://www.shiplyst.com) |
-| **CargoLedger – Invoice Automation** | Designing a scalable invoicing experience for enterprise users managing shipment billing | [View](https://dhaval-sukharamwala.github.io/CargoLedger/) |
-| **DO Automation** | Upload DO copies — the form fills itself automatically using AI | [View](https://dhaval-sukharamwala.github.io/DO-Automation/) |
-| **Empty Reuse – Mobile App** | Mobile-first design for putting idle containers back to work in the logistics supply chain | [View](https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/) |
-| **AgriOS – AI Copilot** | AI-powered farm management platform focused on data-driven decision-making for farmers | [View](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
-| **Dobblin Storefront** | E-commerce storefront design for a fashion D2C brand with focus on conversion | [View](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
+| :--- | :--- | :---: |
+| **MatchLog Platform** | Enterprise container logistics & reuse platform used by shipping lines, transporters, and logistics teams | [View&nbsp;→](https://matchlog.delivery) |
+| **Shiplyst** | Digital freight procurement & shipment management platform for global logistics | [View&nbsp;→](https://www.shiplyst.com) |
+| **CargoLedger – Invoice Automation** | Designing a scalable invoicing experience for enterprise users managing shipment billing | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/CargoLedger/) |
+| **DO Automation** | Upload DO copies — the form fills itself automatically using AI | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/DO-Automation/) |
+| **Empty Reuse – Mobile App** | Mobile-first design for putting idle containers back to work in the logistics supply chain | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/) |
+| **AgriOS – AI Copilot** | AI-powered farm management platform focused on data-driven decision-making for farmers | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
+| **Dobblin Storefront** | E-commerce storefront design for a fashion D2C brand with focus on conversion | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
 
 ---
 
