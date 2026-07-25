@@ -31,7 +31,6 @@ Each case study is a fully interactive page — scroll the story, click any scre
 | **Shiplyst** | Digital freight procurement & shipment management platform for global logistics | [View&nbsp;→](https://www.shiplyst.com) |
 | **CargoLedger – Invoice Automation** | Designing a scalable invoicing experience for enterprise users managing shipment billing | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/CargoLedger/) |
 | **DO Automation** | Upload DO copies — the form fills itself automatically using AI | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/DO-Automation/) |
-| **Empty Reuse – Mobile App** | Mobile-first design for putting idle containers back to work in the logistics supply chain | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/empty-reuse-mobile-case-study/) |
 | **AgriOS – AI Copilot** | AI-powered farm management platform focused on data-driven decision-making for farmers | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
 | **Design Tokens – Figma to Production** | One token change flowing from Figma through CI to web, iOS, and Android — no engineer touching a UI file | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/figma-to-production/) |
 | **Dobblin Storefront** | E-commerce storefront design for a fashion D2C brand with focus on conversion | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
