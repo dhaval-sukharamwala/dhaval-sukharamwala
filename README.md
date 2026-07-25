@@ -33,7 +33,6 @@ Each case study is a fully interactive page — scroll the story, click any scre
 | **DO Automation** | Upload DO copies — the form fills itself automatically using AI | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/do-automation/) |
 | **AgriOS – AI Copilot** | AI-powered farm management platform focused on data-driven decision-making for farmers | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
 | **Design Tokens – Figma to Production** | One token change flowing from Figma through CI to web, iOS, and Android — no engineer touching a UI file | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/figma-to-production/) |
-| **Dobblin Storefront** | E-commerce storefront design for a fashion D2C brand with focus on conversion | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/dobblin-storefront-case-study/) |
 
 ---
 
