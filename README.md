@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhaval Sukharamwala  
 
-### Senior Product Designer • Enterprise SaaS • AI-Powered Products • Design Systems
+### Product Designer — UI/UX & Design Systems • Enterprise SaaS • AI-Powered Products
 
 I design enterprise SaaS products that simplify complex business workflows through user-centered design, scalable design systems, and close collaboration with engineering.
 
