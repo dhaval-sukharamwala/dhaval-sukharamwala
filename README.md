@@ -4,7 +4,7 @@
 
 I design enterprise SaaS products that simplify complex business workflows through user-centered design, scalable design systems, and close collaboration with engineering.
 
-Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and business stakeholders to transform complex operational workflows into intuitive digital experiences.
+Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and stakeholders to create products that are both beautiful and technically feasible.
 
 My **front-end development background** helps bridge the gap between design and engineering, enabling faster implementation, stronger design systems, and technically feasible solutions.
 
@@ -33,6 +33,15 @@ Each case study is a fully interactive page — scroll the story, click any scre
 | **DO Automation** | Upload DO copies — the form fills itself automatically using AI | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/do-automation/) |
 | **AgriOS – AI Copilot** | AI-powered farm management platform focused on data-driven decision-making for farmers | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
 | **Design Tokens – Figma to Production** | One token change flowing from Figma through CI to web, iOS, and Android — no engineer touching a UI file | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/figma-to-production/) |
+
+---
+
+## 🚀 Open Source & GitHub Projects
+
+- **[agrios-copilot](https://github.com/dhaval-sukharamwala/agrios-copilot)** — AI copilot for farm management with decision-support UX
+- **[CargoLedger](https://github.com/dhaval-sukharamwala/CargoLedger)** — Invoice automation case study for enterprise logistics
+- **[figma-to-production](https://github.com/dhaval-sukharamwala/figma-to-production)** — Design tokens flowing from Figma → GitHub → CI/CD → Production
+- **[do-automation](https://github.com/dhaval-sukharamwala/do-automation)** — AI document recognition for delivery forms
 
 ---
 
@@ -68,6 +77,15 @@ Each case study is a fully interactive page — scroll the story, click any scre
 
 ---
 
+## 📈 By The Numbers
+
+- **10+ years** designing enterprise SaaS
+- **5+ case studies** on GitHub with interactive demos
+- **5+ B2B platforms** shipped with 100K+ active users
+- **Design + Development** hybrid skill set bridging both worlds
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
@@ -82,6 +100,10 @@ Each case study is a fully interactive page — scroll the story, click any scre
   </a>
 </p>
 
+### 👉 Looking to discuss a project or collaboration?
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/dhaval-sukharamwala/) or [Email](mailto:dhavaldvl00@gmail.com) — I'm open to new opportunities and collaborative projects.
+
 ---
 
 ## 📍 Location & Availability
@@ -93,7 +115,7 @@ Each case study is a fully interactive page — scroll the story, click any scre
 
 ## 🎓 Background
 
-With over a decade of experience in product design and front-end development, I've worked with startups and established companies to solve complex business problems through thoughtful design. My unique combination of design and technical skills allows me to:
+With over a decade of experience in product design and front-end development, I've worked with startups and established companies to solve complex business problems through thoughtful design. My unique skill set allows me to:
 
 - Translate business requirements into user-centered designs
 - Communicate effectively with both designers and developers
@@ -114,4 +136,6 @@ I'm passionate about creating products that make a real impact on people's workf
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=dhaval-sukharamwala&label=Profile%20views&color=0e75b6&style=flat)
 
-*Last updated: July 2026*
+*Last updated: August 2026*
+
+<!-- SEO Keywords: Product Design, Enterprise SaaS, UI/UX, Design Systems, Figma, Logistics, AI Design, Product Designer -->
