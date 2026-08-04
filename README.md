@@ -4,7 +4,7 @@
 
 I design enterprise SaaS products that simplify complex business workflows through user-centered design, scalable design systems, and close collaboration with engineering.
 
-Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and stakeholders to create products that are both beautiful and technically feasible.
+Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and stakeholders to turn complex business challenges into intuitive, scalable solutions.
 
 My **front-end development background** helps bridge the gap between design and engineering, enabling faster implementation, stronger design systems, and technically feasible solutions.
 
@@ -27,12 +27,12 @@ Each case study is a fully interactive page — scroll the story, click any scre
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
-| **MatchLog Platform** | Enterprise container logistics & reuse platform used by shipping lines, transporters, and logistics teams | [View&nbsp;→](https://matchlog.delivery) |
-| **Shiplyst** | Digital freight procurement & shipment management platform for global logistics | [View&nbsp;→](https://www.shiplyst.com) |
-| **CargoLedger – Invoice Automation** | Designing a scalable invoicing experience for enterprise users managing shipment billing | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/CargoLedger/) |
-| **DO Automation** | Upload DO copies — the form fills itself automatically using AI | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/do-automation/) |
-| **AgriOS – AI Copilot** | AI-powered farm management platform focused on data-driven decision-making for farmers | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
-| **Design Tokens – Figma to Production** | One token change flowing from Figma through CI to web, iOS, and Android — no engineer touching a UI file | [Case&nbsp;Study&nbsp;→](https://dhaval-sukharamwala.github.io/figma-to-production/) |
+| **MatchLog Platform** | Container logistics & reuse platform for shipping lines | [View →](https://matchlog.delivery) |
+| **Shiplyst** | Digital freight procurement & shipment management | [View →](https://www.shiplyst.com) |
+| **CargoLedger** | Invoice automation for enterprise logistics | [Case Study →](https://dhaval-sukharamwala.github.io/CargoLedger/) |
+| **DO Automation** | AI document recognition auto-filling delivery forms | [Case Study →](https://dhaval-sukharamwala.github.io/do-automation/) |
+| **AgriOS Copilot** | AI farm management for data-driven decisions | [Case Study →](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
+| **Design Tokens** | Figma to production: tokens flow through CI/CD | [Case Study →](https://dhaval-sukharamwala.github.io/figma-to-production/) |
 
 ---
 
@@ -115,7 +115,7 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/dhaval-sukharamwala/) or [E
 
 ## 🎓 Background
 
-With over a decade of experience in product design and front-end development, I've worked with startups and established companies to solve complex business problems through thoughtful design. My unique skill set allows me to:
+With over a decade of experience in product design and front-end development, I've worked with startups and established companies to solve complex business problems through thoughtful design. My unique hybrid skill set allows me to:
 
 - Translate business requirements into user-centered designs
 - Communicate effectively with both designers and developers
