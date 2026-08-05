@@ -1,62 +1,141 @@
-# 👋 Hi, I'm Dhaval Sukharamwala
+# 👋 Hi, I'm Dhaval Sukharamwala  
 
 ### Product Designer — UI/UX & Design Systems • Enterprise SaaS • AI-Powered Products
 
-I design enterprise SaaS experiences, design systems, and cross-disciplinary tooling that helps product teams move from ideas to shipped outcomes.
+I design enterprise SaaS products that simplify complex business workflows through user-centered design, scalable design systems, and close collaboration with engineering.
 
-Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and stakeholders to deliver usable, scalable products.
+Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and [...]
 
----
-
-## 🎯 Highlights — Curated Case Studies & Demos
-
-These are the 4 projects I recommend pinning for fast discovery. Each link points to an interactive case study or demo.
-
-1) CargoLedger — Invoice automation for enterprise logistics
-- Demo: https://dhaval-sukharamwala.github.io/CargoLedger/
-- Status: Case study / prototype
-- Focus: B2B UX, dashboard flows, automated reconciliation
-
-2) AgriOS Copilot (agrios-copilot) — AI copilot for farm management
-- Demo: https://dhaval-sukharamwala.github.io/agrios-copilot/
-- Status: Case study / prototype
-- Focus: AI UX, decision support, mobile-first design
-
-3) Figma → Production (figma-to-production) — Design tokens pipeline demo
-- Demo: https://dhaval-sukharamwala.github.io/figma-to-production/
-- Status: Demo / learning lab
-- Focus: Design systems, CI/CD, developer experience
-
-4) DO Automation (do-automation) — Delivery Order OCR & review workflow
-- Demo: https://dhaval-sukharamwala.github.io/do-automation/
-- Status: Case study / prototype
-- Focus: OCR, automation, human-in-the-loop review
+My **front-end development background** helps bridge the gap between design and engineering, enabling faster implementation, stronger design systems, and technically feasible solutions.
 
 ---
 
-## How to use this page
-- This README is the primary narrative showcase for my work; the pinned repos on my profile should be the quick-access list. I recommend pinning the four repos above and keeping Featured for one-off highlights (talks, blog posts) only.
-- For detailed context, open each project repo (links above) — they include screenshots, demo links, and a short “Status” line.
+## 🎯 What I Do
+
+- **Enterprise UX/UI Design** — Designing complex workflows for B2B SaaS products
+- **Design Systems** — Building scalable, reusable component libraries
+- **User Research & Strategy** — Understanding user pain points and translating them into solutions
+- **Interaction Design** — Creating intuitive experiences that reduce cognitive load
+- **Front-end Prototyping** — HTML/CSS/JavaScript prototypes that bridge design and development
+- **Logistics & Supply Chain Design** — Specializing in container tracking, freight management, and automation
 
 ---
 
-## 💼 Other notable work
-- **MatchLog Platform** — Container logistics & reuse platform (https://matchlog.delivery)
-- **Shiplyst** — Digital freight procurement & shipment management (https://www.shiplyst.com)
+## 💼 Featured Work
+
+Each case study is a fully interactive page — scroll the story, click any screen to zoom in.
+
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| **MatchLog Platform** | Container logistics & reuse platform for shipping lines | [View →](https://matchlog.delivery) |
+| **Shiplyst** | Digital freight procurement & shipment management | [View →](https://www.shiplyst.com) |
+| **CargoLedger** | Invoice automation for enterprise logistics | [Case Study →](https://dhaval-sukharamwala.github.io/CargoLedger/) |
+| **DO Automation** | AI document recognition auto-filling delivery forms | [Case Study →](https://dhaval-sukharamwala.github.io/do-automation/) |
+| **AgriOS Copilot** | AI farm management for data-driven decisions | [Case Study →](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
+| **Design Tokens** | Figma to production: tokens flow through CI/CD | [Case Study →](https://dhaval-sukharamwala.github.io/figma-to-production/) |
 
 ---
 
-## 🛠️ Skills & Tools
-- Design: Figma, prototyping, interaction design, user research
-- Front-end prototyping: HTML, CSS, JavaScript
-- Focus areas: Design systems, enterprise UX, logistics, AI-powered products
+## 🚀 Open Source & GitHub Projects
+
+- **[agrios-copilot](https://github.com/dhaval-sukharamwala/agrios-copilot)** — AI copilot for farm management with decision-support UX
+- **[CargoLedger](https://github.com/dhaval-sukharamwala/CargoLedger)** — Invoice automation case study for enterprise logistics
+- **[figma-to-production](https://github.com/dhaval-sukharamwala/figma-to-production)** — Design tokens flowing from Figma → GitHub → CI/CD → Production
+- **[do-automation](https://github.com/dhaval-sukharamwala/do-automation)** — AI document recognition for delivery forms
 
 ---
 
-## 🔗 Connect
-- LinkedIn: https://www.linkedin.com/in/dhaval-sukharamwala/
-- Email: dhavaldvl00@gmail.com
+## 🛠️ Skills & Technologies
+
+**Design Tools**
+- Figma, Adobe XD, Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+- Prototyping: Figma, Adobe XD, InVision
+- User Research: UserTesting, Hotjar, Google Analytics
+
+**Front-end Development**
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design & Progressive Enhancement
+- Accessibility (WCAG 2.1)
+
+**Specializations**
+- Design Systems & Component Libraries
+- Enterprise SaaS UX/UI
+- Logistics & Supply Chain Systems
+- Mobile App Design
+- Workflow Automation
+- Data Visualization
 
 ---
+
+## 📊 My Approach
+
+1. **Understand** — Research user needs, business goals, and technical constraints
+2. **Ideate** — Explore multiple solutions through sketches, wireframes, and prototypes
+3. **Design** — Create high-fidelity designs with attention to detail and accessibility
+4. **Test** — Validate designs through user testing and iterate based on feedback
+5. **Handoff** — Collaborate closely with engineers to ensure pixel-perfect implementation
+
+---
+
+## 📈 By The Numbers
+
+- **10+ years** designing enterprise SaaS
+- **5+ case studies** on GitHub with interactive demos
+- **5+ B2B platforms** shipped with 100K+ active users
+- **Design + Development** hybrid skill set bridging both worlds
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.behance.net/dhaval-sukharamwala">
+    <img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhaval-sukharamwala/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dhavaldvl00@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+### 👉 Looking to discuss a project or collaboration?
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/dhaval-sukharamwala/) or [Email](mailto:dhavaldvl00@gmail.com) — I'm open to new opportunities and collaborative projects.
+
+---
+
+## 📍 Location & Availability
+
+**Based in:** Surat, Gujarat, India  
+**Open to:** Remote • Pune • Ahmedabad • Vadodara • Gandhinagar
+
+---
+
+## 🎓 Background
+
+With over a decade of experience in product design and front-end development, I've worked with startups and established companies to solve complex business problems through thoughtful design. My [...]
+
+- Translate business requirements into user-centered designs
+- Communicate effectively with both designers and developers
+- Prototype and validate ideas quickly
+- Design for technical feasibility without compromising UX
+
+I'm passionate about creating products that make a real impact on people's workflows and businesses.
+
+---
+
+## 📌 Quick Links
+
+- 🎨 **Portfolio:** [View my design work](https://www.behance.net/dhaval-sukharamwala)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dhaval-sukharamwala/)
+- 📧 **Email:** [Get in touch](mailto:dhavaldvl00@gmail.com)
+- 🚀 **Currently:** Open to new opportunities and collaborative projects
+
+---
+![](https://komarev.com/ghpvc/?username=dhaval-sukharamwala&label=Profile%20views&color=0e75b6&style=flat)
 
 *Last updated: August 2026*
+
+<!-- SEO Keywords: Product Design, Enterprise SaaS, UI/UX, Design Systems, Figma, Logistics, AI Design, Product Designer -->
