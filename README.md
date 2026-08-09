@@ -30,7 +30,6 @@ Each case study is a fully interactive page — scroll the story, click any scre
 | **MatchLog Platform** | Container logistics & reuse platform for shipping lines | [View →](https://matchlog.delivery) |
 | **Shiplyst** | Digital freight procurement & shipment management | [View →](https://www.shiplyst.com) |
 | **CargoLedger** | Invoice automation for enterprise logistics | [Case Study →](https://dhaval-sukharamwala.github.io/CargoLedger/) |
-| **DO Automation** | AI document recognition auto-filling delivery forms | [Case Study →](https://dhaval-sukharamwala.github.io/do-automation/) |
 | **AgriOS Copilot** | AI farm management for data-driven decisions | [Case Study →](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
 | **Design Tokens** | Figma to production: tokens flow through CI/CD | [Case Study →](https://dhaval-sukharamwala.github.io/figma-to-production/) |
 
@@ -38,10 +37,9 @@ Each case study is a fully interactive page — scroll the story, click any scre
 
 ## 🚀 Open Source & GitHub Projects
 
-- **[agrios-copilot](https://github.com/dhaval-sukharamwala/agrios-copilot)** — AI copilot for farm management with decision-support UX
 - **[CargoLedger](https://github.com/dhaval-sukharamwala/CargoLedger)** — Invoice automation case study for enterprise logistics
+- **[agrios-copilot](https://github.com/dhaval-sukharamwala/agrios-copilot)** — AI copilot for farm management with decision-support UX
 - **[figma-to-production](https://github.com/dhaval-sukharamwala/figma-to-production)** — Design tokens flowing from Figma → GitHub → CI/CD → Production
-- **[do-automation](https://github.com/dhaval-sukharamwala/do-automation)** — AI document recognition for delivery forms
 
 ---
 
