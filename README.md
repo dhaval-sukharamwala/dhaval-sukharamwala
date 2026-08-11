@@ -134,6 +134,12 @@ Each case study is a fully interactive page — scroll the story, click any scre
   </a>
 </p>
 
+<p align="left">
+  <a href="https://raw.githubusercontent.com/dhaval-sukharamwala/dhaval-sukharamwala/main/Dhaval%20Sukharamwala%20-%20Senior%20UI_UX%20Designer%2C%20Product%20Designer%2C%20Design%20Systems.pdf">
+    <img alt="Download Resume" src="https://img.shields.io/badge/Download%20Resume-PDF-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
+  </a>
+</p>
+
 ### 👉 Looking to discuss a project or collaboration?
 
 Reach out via [LinkedIn](https://www.linkedin.com/in/dhaval-sukharamwala/) or [Email](mailto:dhavaldvl00@gmail) — I'm open to new opportunities and collaborative projects.
