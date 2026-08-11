@@ -130,7 +130,7 @@ I'm passionate about creating products that make a real impact on people's workf
 
 - 🎨 **Portfolio:** [View my design work](https://www.behance.net/dhaval-sukharamwala)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dhaval-sukharamwala/)
-- 📧 **Email:** [Get in touch](mailto:dhavaldvl00@gmail.com)
+- 📧 **Email:** [Get in touch](mailto:dhavaldvl00@gmail) 
 - 🚀 **Currently:** Open to new opportunities and collaborative projects
 
 ---
