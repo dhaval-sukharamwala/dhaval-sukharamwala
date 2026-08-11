@@ -25,14 +25,47 @@ My **front-end development background** helps bridge the gap between design and 
 
 Each case study is a fully interactive page — scroll the story, click any screen to zoom in.
 
-| Project | Description | Link |
-| :--- | :--- | :---: |
-| **CargoLedger** | Invoice automation for enterprise logistics | [Case Study →](https://dhaval-sukharamwala.github.io/CargoLedger/) |
-| **YardIQ** | AI-assisted yard operations concept | [Case Study →](https://dhaval-sukharamwala.github.io/yardIQ/) |
-| **AgriOS Copilot** | AI farm management for data-driven decisions | [Case Study →](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
-| **Design Tokens** | Figma to production: tokens flow through CI/CD | [Case Study →](https://dhaval-sukharamwala.github.io/figma-to-production/) |
-| **MatchLog Platform** | Container logistics & reuse platform for shipping lines | [View →](https://matchlog.delivery) |
-| **Shiplyst** | Digital freight procurement & shipment management | [View →](https://www.shiplyst.com) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="center">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>CargoLedger</strong></td>
+      <td>Invoice automation for enterprise logistics</td>
+      <td align="center"><a href="https://dhaval-sukharamwala.github.io/CargoLedger/">Case Study →</a></td>
+    </tr>
+    <tr>
+      <td><strong>YardIQ</strong></td>
+      <td>AI-assisted yard operations concept</td>
+      <td align="center"><a href="https://dhaval-sukharamwala.github.io/yardIQ/">Case Study →</a></td>
+    </tr>
+    <tr>
+      <td><strong>AgriOS Copilot</strong></td>
+      <td>AI farm management for data-driven decisions</td>
+      <td align="center"><a href="https://dhaval-sukharamwala.github.io/agrios-copilot/">Case Study →</a></td>
+    </tr>
+    <tr>
+      <td><strong>Design Tokens</strong></td>
+      <td>Figma to production: tokens flow through CI/CD</td>
+      <td align="center"><a href="https://dhaval-sukharamwala.github.io/figma-to-production/">Case Study →</a></td>
+    </tr>
+    <tr>
+      <td><strong>MatchLog Platform</strong></td>
+      <td>Container logistics & reuse platform for shipping lines</td>
+      <td align="center"><a href="https://matchlog.delivery">View →</a></td>
+    </tr>
+    <tr>
+      <td><strong>Shiplyst</strong></td>
+      <td>Digital freight procurement & shipment management</td>
+      <td align="center"><a href="https://www.shiplyst.com">View →</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -102,7 +135,7 @@ Each case study is a fully interactive page — scroll the story, click any scre
 
 ### 👉 Looking to discuss a project or collaboration?
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/dhaval-sukharamwala/) or [Email](mailto:dhavaldvl00@gmail.com) — I'm open to new opportunities and collaborative projects.
+Reach out via [LinkedIn](https://www.linkedin.com/in/dhaval-sukharamwala/) or [Email](mailto:dhavaldvl00@gmail) — I'm open to new opportunities and collaborative projects.
 
 ---
 
