@@ -2,6 +2,12 @@
 
 ### Product Designer — UI/UX & Design Systems • Enterprise SaaS • AI-Powered Products
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/dhaval-sukharamwala/dhaval-sukharamwala/main/Dhaval%20Sukharamwala%20-%20Senior%20UI_UX%20Designer%2C%20Product%20Designer%2C%20Design%20Systems.pdf">
+    <img alt="Download Resume" src="https://img.shields.io/badge/Download%20Resume-PDF-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
+  </a>
+</p>
+
 I design enterprise SaaS products that simplify complex business workflows through user-centered design, scalable design systems, and close collaboration with engineering.
 
 Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and [...]
@@ -131,12 +137,6 @@ Each case study is a fully interactive page — scroll the story, click any scre
   </a>
   <a href="mailto:dhavaldvl00@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://raw.githubusercontent.com/dhaval-sukharamwala/dhaval-sukharamwala/main/Dhaval%20Sukharamwala%20-%20Senior%20UI_UX%20Designer%2C%20Product%20Designer%2C%20Design%20Systems.pdf">
-    <img alt="Download Resume" src="https://img.shields.io/badge/Download%20Resume-PDF-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
   </a>
 </p>
 
