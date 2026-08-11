@@ -2,17 +2,19 @@
 
 ### Product Designer — UI/UX & Design Systems • Enterprise SaaS • AI-Powered Products
 
+Senior UI/UX Designer and Product Designer with **10+ years of experience** designing enterprise web and mobile applications across **Logistics, Supply Chain, and Enterprise SaaS** products.
+
+Experienced in leading the complete product design lifecycle—from product discovery, user research, information architecture, wireframing, prototyping, and usability testing to high-fidelity design, design systems, developer handoff, and design QA.
+
+Strong expertise in simplifying complex business workflows, designing enterprise dashboards, creating scalable design systems with design tokens, and integrating **AI-assisted features** (LLM-powered document automation) to deliver user-centered solutions in collaboration with Product Managers, developers, and business stakeholders.
+
+A technical background in **HTML/CSS** helps bridge the gap between design and engineering, enabling technically feasible, scalable, and production-ready designs.
+
 <p align="center">
   <a href="https://raw.githubusercontent.com/dhaval-sukharamwala/dhaval-sukharamwala/main/Dhaval%20Sukharamwala%20-%20Senior%20UI_UX%20Designer%2C%20Product%20Designer%2C%20Design%20Systems.pdf">
     <img alt="Download Resume" src="https://img.shields.io/badge/Download%20Resume-PDF-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
   </a>
 </p>
-
-I design enterprise SaaS products that simplify complex business workflows through user-centered design, scalable design systems, and close collaboration with engineering.
-
-Over the past **10+ years**, I've designed enterprise SaaS products across logistics, supply chain, invoicing, AI, and mobile platforms. I collaborate closely with product managers, engineers, and [...]
-
-My **front-end development background** helps bridge the gap between design and engineering, enabling faster implementation, stronger design systems, and technically feasible solutions.
 
 ---
 
