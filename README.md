@@ -72,9 +72,10 @@ Each case study is a fully interactive page — scroll the story, click any scre
 ## 🚀 Open Source & GitHub Projects
 
 - **[CargoLedger](https://github.com/dhaval-sukharamwala/CargoLedger)** — Invoice automation case study for enterprise logistics
+- **[yardIQ](https://github.com/dhaval-sukharamwala/yardIQ)** — AI-assisted yard operations concept
 - **[agrios-copilot](https://github.com/dhaval-sukharamwala/agrios-copilot)** — AI copilot for farm management with decision-support UX
 - **[figma-to-production](https://github.com/dhaval-sukharamwala/figma-to-production)** — Design tokens flowing from Figma → GitHub → CI/CD → Production
-- **[yardIQ](https://github.com/dhaval-sukharamwala/yardIQ)** — Yard management & logistics platform (open-source). Tools: Ruby on Rails, React, Postgres
+
 
 ---
 
