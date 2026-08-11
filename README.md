@@ -10,11 +10,9 @@ Strong expertise in simplifying complex business workflows, designing enterprise
 
 A technical background in **HTML/CSS** helps bridge the gap between design and engineering, enabling technically feasible, scalable, and production-ready designs.
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/dhaval-sukharamwala/dhaval-sukharamwala/main/Dhaval%20Sukharamwala%20-%20Senior%20UI_UX%20Designer%2C%20Product%20Designer%2C%20Design%20Systems.pdf">
-    <img alt="Download Resume" src="https://img.shields.io/badge/Download%20Resume-PDF-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
-  </a>
-</p>
+<a href="https://raw.githubusercontent.com/dhaval-sukharamwala/dhaval-sukharamwala/main/Dhaval%20Sukharamwala%20-%20Senior%20UI_UX%20Designer%2C%20Product%20Designer%2C%20Design%20Systems.pdf">
+  <img alt="Download Resume" src="https://img.shields.io/badge/Download%20Resume-PDF-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
+</a>
 
 ---
 
