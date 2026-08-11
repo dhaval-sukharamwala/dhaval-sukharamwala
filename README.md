@@ -155,7 +155,7 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/dhaval-sukharamwala/) or [E
 
 ## 🎓 Background
 
-With over a decade of experience in product design and front-end development, I've worked with startups and established companies to solve complex business problems through thoughtful design. My [...]
+With over a decade of experience in product design and front-end development, I've worked with startups and established companies to solve complex business problems through thoughtful design.
 
 - Translate business requirements into user-centered designs
 - Communicate effectively with both designers and developers
