@@ -27,12 +27,12 @@ Each case study is a fully interactive page — scroll the story, click any scre
 
 | Project | Description | Link |
 | :--- | :--- | :---: |
-| **MatchLog Platform** | Container logistics & reuse platform for shipping lines | [View →](https://matchlog.delivery) |
-| **Shiplyst** | Digital freight procurement & shipment management | [View →](https://www.shiplyst.com) |
 | **CargoLedger** | Invoice automation for enterprise logistics | [Case Study →](https://dhaval-sukharamwala.github.io/CargoLedger/) |
+| **YardIQ** | AI-assisted yard operations concept | [Case Study →](https://dhaval-sukharamwala.github.io/yardIQ/) |
 | **AgriOS Copilot** | AI farm management for data-driven decisions | [Case Study →](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
 | **Design Tokens** | Figma to production: tokens flow through CI/CD | [Case Study →](https://dhaval-sukharamwala.github.io/figma-to-production/) |
-| **yardIQ** | Yard management & logistics platform that optimizes yard operations with real-time tracking and analytics | [Case Study →](https://github.com/dhaval-sukharamwala/yardIQ) |
+| **MatchLog Platform** | Container logistics & reuse platform for shipping lines | [View →](https://matchlog.delivery) |
+| **Shiplyst** | Digital freight procurement & shipment management | [View →](https://www.shiplyst.com) |
 
 ---
 
