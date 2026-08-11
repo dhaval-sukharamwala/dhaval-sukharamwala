@@ -32,6 +32,7 @@ Each case study is a fully interactive page — scroll the story, click any scre
 | **CargoLedger** | Invoice automation for enterprise logistics | [Case Study →](https://dhaval-sukharamwala.github.io/CargoLedger/) |
 | **AgriOS Copilot** | AI farm management for data-driven decisions | [Case Study →](https://dhaval-sukharamwala.github.io/agrios-copilot/) |
 | **Design Tokens** | Figma to production: tokens flow through CI/CD | [Case Study →](https://dhaval-sukharamwala.github.io/figma-to-production/) |
+| **yardIQ** | Yard management & logistics platform that optimizes yard operations with real-time tracking and analytics | [Repo →](https://github.com/dhaval-sukharamwala/yardIQ) |
 
 ---
 
@@ -40,6 +41,7 @@ Each case study is a fully interactive page — scroll the story, click any scre
 - **[CargoLedger](https://github.com/dhaval-sukharamwala/CargoLedger)** — Invoice automation case study for enterprise logistics
 - **[agrios-copilot](https://github.com/dhaval-sukharamwala/agrios-copilot)** — AI copilot for farm management with decision-support UX
 - **[figma-to-production](https://github.com/dhaval-sukharamwala/figma-to-production)** — Design tokens flowing from Figma → GitHub → CI/CD → Production
+- **[yardIQ](https://github.com/dhaval-sukharamwala/yardIQ)** — Yard management & logistics platform (open-source). Tools: Ruby on Rails, React, Postgres
 
 ---
 
