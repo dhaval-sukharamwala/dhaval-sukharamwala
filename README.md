@@ -2,7 +2,7 @@
 
 ### Product Designer — UI/UX & Design Systems • Enterprise SaaS • AI-Powered Products
 
-Senior UI/UX Designer and Product Designer with **10+ years of experience** designing enterprise web and mobile applications across **Logistics, Supply Chain, and Enterprise SaaS** products.
+Senior UI/UX Designer and Product Designer with **9 years of experience** designing enterprise web and mobile applications across **Logistics, Supply Chain, and Enterprise SaaS** products.
 
 Experienced in leading the complete product design lifecycle—from product discovery, user research, information architecture, wireframing, prototyping, and usability testing to high-fidelity design, design systems, developer handoff, and design QA.
 
