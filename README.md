@@ -2,11 +2,11 @@
 
 ### Senior UI/UX Designer • Product Designer • Design Systems • Logistics UX
 
-Product Designer with 9+ years of experience designing enterprise SaaS, design systems, and logistics workflows for complex B2B products. I help teams turn operational complexity into clean, scalable, user-centered digital experiences that improve adoption, reduce friction, and drive business outcomes.
+Product Designer with 9+ years of experience designing enterprise SaaS, design systems, and logistics workflows for complex B2B products. I help teams turn operational complexity into clean, scalable product experiences.
 
-I work across the full product design lifecycle — from discovery and user research to information architecture, wireframing, prototyping, interaction design, and design system implementation. My focus is on simplifying high-stakes workflows, creating intuitive dashboards, and building systems that scale with product growth.
+I work across the full product design lifecycle — from discovery and user research to information architecture, wireframing, prototyping, interaction design, and design system implementation.
 
-<a href="https://github.com/dhaval-sukharamwala/dhaval-sukharamwala/blob/main/Dhaval%20Sukharamwala%20-%20Senior%20UI_UX%20Designer.pdf">
+<a href="https://github.com/dhaval-sukharamwala/dhaval-sukharamwala/raw/refs/heads/main/Dhaval%20Sukharamwala%20%E2%80%94%20Senior%20UI_UX%20Designer%20%E2%86%92%20Product%20Designer.pdf">
   <img alt="Download Resume" src="https://img.shields.io/badge/Download%20Resume-PDF-brightgreen?style=for-the-badge&logo=adobeacrobat&logoColor=white" />
 </a>
 
